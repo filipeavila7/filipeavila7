@@ -1,8 +1,10 @@
 # Olá, eu sou o Filipe Pereira! 
-
 Desenvolvedor Full Stack em início de carreira, formado em Desenvolvimento de Sistemas pelo SESI-SENAI e graduando em Engenharia de Software. Tenho experiência prática com Java, Spring Boot, Python, Flask, React e desenvolvimento web em geral.
 
-**Portfólio:** [filipeavila7.github.io/portfolio-atualizado](https://filipeavila7.github.io/portfolio-atualizado)
+[![Portfolio](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=githubpages&logoColor=white)](https://filipeavila7.github.io/portfolio-atualizado)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/filipe-pereira-ab843530a)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/devfilipe.pva?igsh=YjZ4eGJ2MzAxbTZp)
+
 📍 Brasília - DF
 
 ---
@@ -38,26 +40,4 @@ Desenvolvedor Full Stack em início de carreira, formado em Desenvolvimento de S
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
-
-## Projetos em destaque
-
-### [Rede Social — API REST](https://github.com/filipeavila7/rede-social-java) · [Front-end](https://github.com/filipeavila7/front-rede-social)
-API REST de rede social com Java e Spring Boot, autenticação Bearer JWT, Spring Security, posts, comentários, curtidas, mensagens e edição de perfil. Front-end em React consumindo todos os endpoints.
-`Java` `Spring Boot` `Spring Security` `JWT` `JPA/Hibernate` `MySQL` `React`
-
----
-
-### [ChatBot AI](https://github.com/filipeavila7/chatbot)
-Chatbot com IA generativa integrando as APIs do Gemini e ChatGPT. Backend em Flask com SQLAlchemy e autenticação de usuários. Criação, exclusão e renomeação de chats.
-`Python` `Flask` `SQLAlchemy` `MySQL` `Gemini API` `ChatGPT API` `JavaScript`
-
----
-
-
-### [Site PetShop](https://github.com/filipeavila7/site-petshop)
-Sistema web com área administrativa, controle de permissões, curtidas e comentários em pets.
-`Python` `Flask` `MySQL`
-
----
-
 
