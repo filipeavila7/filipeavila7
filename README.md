@@ -1,18 +1,17 @@
 # Olá, eu sou o Filipe Pereira! 
 
-Desenvolvedor Full Stack em início de carreira, formado em Desenvolvimento de Sistemas pelo SESI-SENAI e graduando em Engenharia de Software. Tenho experiência prática com Java, Spring Boot, Python, Flask, React e desenvolvimento web em geral. Apaixonado por construir soluções reais e aprender continuamente.
+Desenvolvedor Full Stack em início de carreira, formado em Desenvolvimento de Sistemas pelo SESI-SENAI e graduando em Engenharia de Software. Tenho experiência prática com Java, Spring Boot, Python, Flask, React e desenvolvimento web em geral.
 
-🌐 **Portfólio:** [filipeavila7.github.io/portfolio-atualizado](https://filipeavila7.github.io/portfolio-atualizado)
-📫 **E-mail:** filipeavila076@gmail.com
+**Portfólio:** [filipeavila7.github.io/portfolio-atualizado](https://filipeavila7.github.io/portfolio-atualizado)
 📍 Brasília - DF
 
 ---
 
-## 🚀 Tecnologias que uso
+## Tecnologias que uso
 
 **Back-end**
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -73,7 +72,3 @@ Sistema web com área administrativa, controle de permissões, curtidas e coment
 ---
 
 
-
-
-
-> *"Código limpo não é escrito seguindo um conjunto de regras. Você não se torna um artesão de software aprendendo uma lista de heurísticas. O profissionalismo e o artesanato vêm de valores que impulsionam disciplinas." — Robert C. Martin*
