@@ -53,17 +53,6 @@ Chatbot com IA generativa integrando as APIs do Gemini e ChatGPT. Backend em Fla
 
 ---
 
-### Sistema de Irrigação
-Monitoramento em tempo real de válvulas de irrigação com integração a API de clima. Desenvolvido com Flask e Python.
-`Python` `Flask` `C++` `API de Clima`
-
----
-
-### [API Barbearia](https://github.com/filipeavila7/sgu)
-API RESTful para gerenciamento de agendamentos, clientes, serviços e controle financeiro de uma barbearia.
-`Python` `Flask` `MySQL`
-
----
 
 ### [Site PetShop](https://github.com/filipeavila7/site-petshop)
 Sistema web com área administrativa, controle de permissões, curtidas e comentários em pets.
