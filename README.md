@@ -1,7 +1,7 @@
 # Olá, eu sou o Filipe Pereira! 
 Desenvolvedor Full Stack em início de carreira, formado em Desenvolvimento de Sistemas pelo SESI-SENAI e graduando em Engenharia de Software. Tenho experiência prática com Java, Spring Boot, Python, Flask, React e desenvolvimento web em geral.
 
-[![Portfolio](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=githubpages&logoColor=white)](https://filipeavila7.github.io/portfolio-atualizado)
+[![Portfolio](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=githubpages&logoColor=white)](https://github.com/filipeavila7/portfolio-react.git)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/filipe-pereira-ab843530a)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/devfilipe.pva?igsh=YjZ4eGJ2MzAxbTZp)
 
