@@ -99,7 +99,7 @@
 <tr>
 <td width="100%">
 
-### Rede Social — API REST
+### Rede Social Artisphere — API REST
 **Status:** ![ativo](https://img.shields.io/badge/status-ativo-6a0dad?style=for-the-badge&logoColor=white)
 
 API REST completa de rede social, com autenticação via JWT e controle de acesso por roles usando Spring Security. Backend em Java/Spring Boot com JPA/Hibernate e MySQL; frontend em React consumindo os endpoints.
@@ -108,7 +108,7 @@ API REST completa de rede social, com autenticação via JWT e controle de acess
 
 `Java` `Spring Boot` `Spring Security` `JWT` `JPA/Hibernate` `MySQL` `React`
 
-**Repositório:** [github.com/filipeavila7/rede-social-java](https://github.com/filipeavila7/rede-social-java)
+**Repositório:** [github.com/filipeavila7/rede-social-java](https://github.com/filipeavila7/rede-social-java) | [github.com/filipeavila7/artisphere-front.git](https://github.com/filipeavila7/artisphere-front.git)
 
 </td>
 </tr>
@@ -153,6 +153,29 @@ Backend em Flask responsável pela comunicação entre um sistema de irrigação
 </td>
 </tr>
 </table>
+
+<br/>
+
+<table width="100%">
+<tr>
+<td width="100%">
+
+### Ametisty — Gerenciador de Gastos Familiares
+
+**Status:** ![ativo](https://img.shields.io/badge/status-em_desenvolvimento-6a0dad?style=for-the-badge&logoColor=white)
+
+Aplicação full stack para gerenciamento financeiro familiar, com autenticação e controle de acesso utilizando Spring Security e JWT. Permite organizar as finanças da família, acompanhar transações e visualizar informações financeiras por meio de gráficos.
+
+**Funcionalidades:** gerenciamento de transações · histórico financeiro · listas de compras · gerenciamento de produtos e categorias · gráficos financeiros · famílias com hierarquia de administradores · autenticação e autorização
+
+`Java` `Spring Boot` `Spring Security` `JWT` `JPA/Hibernate` `MySQL` `React` `TypeScript`
+
+**Repositório:** [github.com/filipeavila7/ametisty-api.git](https://github.com/filipeavila7/ametisty-api.git) | [github.com/filipeavila7/ametisty-front.git](https://github.com/filipeavila7/ametisty-front.git)
+
+</td>
+</tr>
+</table>
+
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,35:6a0dad,50:BB86FC,65:6a0dad,100:0d1117&height=10&section=header" width="100%"/>
 
