@@ -205,8 +205,8 @@ Aplicação full stack para gerenciamento financeiro familiar, com autenticaçã
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfólio-6a0dad?style=for-the-badge&logo=githubpages&logoColor=white)](https://filipeavila7.github.io/portfolio-react/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-6a0dad?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/filipe-pereira-ab843530a)
+[![Portfolio](https://img.shields.io/badge/Portfólio-6a0dad?style=for-the-badge&logo=githubpages&logoColor=white)](https://portfolio-react-git-main-shipin1.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-6a0dad?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/filipe-pereira-devspnx)
 [![Email](https://img.shields.io/badge/Email-6a0dad?style=for-the-badge&logo=gmail&logoColor=white)](mailto:filipeavila076@gmail.com)
 
 </div>
